@@ -1,0 +1,17 @@
+{
+  "name": "fivem-ssb",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord-rpc": "^3.1.4",
+    "discord.js": "^12.3.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NeeY",
+  "license": "ISC"
+}
